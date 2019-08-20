@@ -4,7 +4,7 @@ The OpenJS Foundation and its member projects use the Contributor
 Covenant v1.4.1 as its Code of Conduct. Refer to the following
 for the full text:
 
-* [english](https://www.contributor-covenant.org/version/1/4/code-of-conduct)
+* [english https://www.contributor-covenant.org/version/1/4/code-of-conduct)
 * [translations](https://www.contributor-covenant.org/translations)
 
 Refer to the section on reporting and escalation in this document for the specific emails that can be used to report and escalate issues.
