@@ -1,4 +1,4 @@
-# Project Exit Clause
+# Project Exit Criteria
 >  Stage 0
 
 ## Champion
